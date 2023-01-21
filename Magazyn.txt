@@ -1,0 +1,12 @@
+banan owoc 542396 kg 2023 12 31
+bulka pieczywo 421 sztuki 2023 12 12
+marchew warzywo 12123 kg 2022 12 12
+marchew warzywo 3312412 kg 2024 2 3
+banan owoc 12312 kg 2023 4 23
+pomidor warzywo 235213 kg 2023 5 23
+marchew warzywo 12312 kg 2022 12 12
+jablko owoc 52423 kg 2022 12 12
+jablko owoc 52345 kg 2024 12 23
+marchew warzywo 42346 kg 2023 3 31
+banan owoc 234 kg 2023 12 23
+pomarancz owoc 321321 kg 2024 12 2
