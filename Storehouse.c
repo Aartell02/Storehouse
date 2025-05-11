@@ -1,3 +1,4 @@
+//Author Artur Kuzel artur.kuzel@gmail.com
 #include "Storehouse.h"
 
 
@@ -26,7 +27,7 @@ int main(){
         break;
         case 2:
             system("cls");
-            printf("\nDelete product:\n1.Delete chosen product\n2.Delete all expired\n\nOption: ");
+            printf("\nDelete product:\n1.Delete chosen product\n2.Delete all expired\n3.Exit\n\nOption: ");
             scanf("%d",&option);
             switch(option){
                 case 1:;
@@ -40,7 +41,7 @@ int main(){
         case 3:
             system("cls");
             char n[CN];
-            printf("\nSelect product:\n1.Select by category\n2.Select by name\n3.Sort by date\n\nOption: ");
+            printf("\nSelect product:\n1.Select by category\n2.Select by name\n3.Sort by date\n4.Exit\n\nOption: ");
             scanf("%d",&option);
             switch(option){
                 case 1:
@@ -256,3 +257,4 @@ void refresh(product **element){
     printf("\nList has been refreshed\nPress Any Key to Continue\n");
     getch();
 }
+//Author Artur Kuzel artur.kuzel@gmail.com

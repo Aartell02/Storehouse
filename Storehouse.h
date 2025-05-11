@@ -1,3 +1,4 @@
+//Author Artur Kuzel artur.kuzel@gmail.com
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
@@ -286,3 +287,4 @@ void pop_by_address(product *address,product **element){
         }
     }
 }
+//Author Artur Kuzel artur.kuzel@gmail.com

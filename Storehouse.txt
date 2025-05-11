@@ -1,3 +1,4 @@
+banan owoc 15669 kg 2023 12 23
 jablko owoc 2800 kg 2023 12 31
 pomarancza owoc 2312 kg 2032 12 23
 marchew warzywo 42346 kg 2023 3 31
@@ -7,4 +8,3 @@ marchew warzywo 3312412 kg 2024 2 3
 bulka pieczywo 421 sztuki 2023 12 12
 banan owoc 854709 kg 2023 12 31
 pomarancz owoc 323633 kg 2024 12 2
-banan owoc 12546 kg 2023 12 23
